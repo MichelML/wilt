@@ -32,7 +32,7 @@ jobs:
           DATE: ${{steps.date.outputs.date}}
         run: |
           echo "# $DATE" >> README.md
-          echo "<write your learnings here>" >> README.md
+          echo "->write your learnings here<-" >> README.md
           echo "" >> README.md
           echo "" >> README.md
 
