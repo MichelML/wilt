@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: wilt-daily
 
 # Controls when the action will run. 
 on:
@@ -32,3 +32,11 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
+        with:
+          assignees: michelml
+          committer: MichelML <michmoreau.l@gmail.com>
+          author: MichelML <michmoreau.l@gmail.com>
+          title: "Daily WILT"
+          commit-message: "Daily WILT"
+          delete-branch: True
+          
