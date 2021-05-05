@@ -31,9 +31,10 @@ jobs:
         env:
           DATE: ${{steps.date.outputs.date}}
         run: |
+          echo "# $DATE" >> README.md
+          echo "<write your learnings here>" >> README.md
           echo "" >> README.md
           echo "" >> README.md
-          echo $DATE >> README.md
 
       # Runs a set of commands using the runners shell
       - name: Create Pull Request
