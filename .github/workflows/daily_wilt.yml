@@ -24,10 +24,12 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Insert new date
+        env:
+          DATE: "{{steps.date.outputs.date}}"
         run: |
           echo "" >> README.md
           echo "" >> README.md
-          date >> README.md
+          echo $DATE >> README.md
 
       # Runs a set of commands using the runners shell
       - name: Create Pull Request
@@ -36,7 +38,8 @@ jobs:
           assignees: michelml
           committer: MichelML <michmoreau.l@gmail.com>
           author: MichelML <michmoreau.l@gmail.com>
-          title: "Daily WILT"
-          commit-message: "Daily WILT"
+          title: "Daily WILT {{steps.date.outputs.date}}"
+          commit-message: "Daily WILT {{steps.date.outputs.date}}"
           delete-branch: True
+          
           
