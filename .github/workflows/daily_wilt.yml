@@ -44,6 +44,7 @@ jobs:
           committer: MichelML <michmoreau.l@gmail.com>
           author: MichelML <michmoreau.l@gmail.com>
           title: "Daily WILT ${{steps.date.outputs.date}}"
+          body: "@MichelML, time to add your learnings of the day!"
           commit-message: "Daily WILT ${{steps.date.outputs.date}}"
           delete-branch: True
           
