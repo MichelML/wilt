@@ -3,3 +3,7 @@
 - Authentified swagger docs with django static files + openapi-schema + swagger-react
 - Struggled with CPP smart pointers, but we'll get there
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
+# 2021-05-06
+->write your learnings here<-
+
+
