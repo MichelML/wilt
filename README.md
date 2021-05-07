@@ -11,9 +11,7 @@
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 - The real estate market in montreal is scary
 
-
-
-
 # 2021-05-07
-->write your learnings here<-
-
+- Better understanding of how to build a C/C++ project from scratch with cmake and CMakeLists
+- Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
+- Even better grasp of complex, nested DRF serializers
