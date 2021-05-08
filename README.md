@@ -15,3 +15,7 @@
 - Better understanding of how to build a C/C++ project from scratch with cmake and CMakeLists
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 - Even better grasp of complex, nested DRF serializers
+
+# 2021-05-08
+->write your learnings here<-
+
