@@ -23,5 +23,7 @@
 - Modular exports with CommonJS
 
 # 2021-05-09
-->write your learnings here<-
+- Inner workings of integrated way of working with ESM modules
+- Progress on multithread and multi-processes programming in C++
+- Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 
