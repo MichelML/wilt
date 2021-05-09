@@ -17,5 +17,7 @@
 - Even better grasp of complex, nested DRF serializers
 
 # 2021-05-08
-->write your learnings here<-
-
+- Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
+- Learned about yarn workspaces https://classic.yarnpkg.com/en/docs/workspaces/ 
+- Gained deeper understanding of JS loaders through webpack https://webpack.js.org/configuration/output/#outputlibrarytype
+- Modular exports with CommonJS
