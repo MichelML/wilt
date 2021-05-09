@@ -21,3 +21,7 @@
 - Learned about yarn workspaces https://classic.yarnpkg.com/en/docs/workspaces/ 
 - Gained deeper understanding of JS loaders through webpack https://webpack.js.org/configuration/output/#outputlibrarytype
 - Modular exports with CommonJS
+
+# 2021-05-09
+->write your learnings here<-
+
