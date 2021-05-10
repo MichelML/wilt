@@ -27,3 +27,7 @@
 - Progress on multithread and multi-processes programming in C++
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 
+
+# 2021-05-10
+->write your learnings here<-
+
