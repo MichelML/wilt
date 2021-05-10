@@ -29,5 +29,8 @@
 
 
 # 2021-05-10
-->write your learnings here<-
+- Better comprehension of django postgres full text search
+- Progress on passing data to threads and concurrent programming in C++
+- Threads vs tasks in C++ concurrent programming
+- Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 
