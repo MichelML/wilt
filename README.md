@@ -39,3 +39,7 @@
 - mutexes and locks in C++
 - No good facetted search UI, backend tool agnostic, out of the box, available for React
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
+
+# 2021-05-12
+->write your learnings here<-
+
