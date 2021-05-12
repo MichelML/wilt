@@ -36,5 +36,6 @@
 
 
 # 2021-05-11
-->write your learnings here<-
+- mutexes and locks in C++
+- No good facetted search UI, backend tool agnostic, out of the box, available for React
 
