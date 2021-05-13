@@ -41,5 +41,7 @@
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 
 # 2021-05-12
-->write your learnings here<-
-
+- implemented object monitoring pattern in C++
+- implemented message queues in C++
+- improved knowledge on django querysets
+- Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
