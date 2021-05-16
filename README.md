@@ -56,5 +56,5 @@
 
 
 # 2021-05-15
-->write your learnings here<-
-
+- Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
+- Started Udacity's CPP capstone project: large scale chemical search in CPP
