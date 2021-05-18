@@ -62,7 +62,7 @@
 - Made progress on potential design of ChemPP (https://github.com/MichelML/chempp) - using modern RDBMS, C++ web framework, and cheminformatics libraries.
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 
-
 # 2021-05-17
-->write your learnings here<-
-
+- Better understanding of SMARTS and SMILES syntax for structure search
+- Progress on chempp, large scale chemical search engine in C++
+- Better understanding of some components of Ant Design framework, namely the layout components
