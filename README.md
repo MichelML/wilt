@@ -66,3 +66,7 @@
 - Better understanding of SMARTS and SMILES syntax for structure search
 - Progress on chempp, large scale chemical search engine in C++
 - Better understanding of some components of Ant Design framework, namely the layout components
+
+# 2021-05-18
+->write your learnings here<-
+
