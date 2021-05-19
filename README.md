@@ -73,3 +73,7 @@
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 - Dreams analysis is always surprising
 
+
+# 2021-05-19
+->write your learnings here<-
+
