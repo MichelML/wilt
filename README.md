@@ -79,3 +79,7 @@
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 - Progress on rdkit-js standalone repository 
 - Dreams analysis is always surprising
+
+# 2021-05-20
+->write your learnings here<-
+
