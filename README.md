@@ -81,5 +81,7 @@
 - Dreams analysis is always surprising
 
 # 2021-05-20
-->write your learnings here<-
-
+- Better grasp of RDKITjs full capability
+- Better grasp of oat++ framework
+- Progress on rdkit-js standalone repository 
+- Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
