@@ -85,3 +85,7 @@
 - Better grasp of oat++ framework
 - Progress on rdkit-js standalone repository 
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
+
+# 2021-05-21
+->write your learnings here<-
+
