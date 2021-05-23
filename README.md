@@ -97,4 +97,5 @@
 - Build context and custom docker file in docker-compose 
 - Better understanding of nested docker image inheritence
 - Progress on chempp, large scale chemical search engine in C++
+- You can render 2d structures using PubChem https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/png?record_type=2d&smiles=Cn1c(%3DO)n(C)c2c(c1%3DO)n(CCC%5BSi%5D(C)(C)C)cn2&image_size=300x300
 
