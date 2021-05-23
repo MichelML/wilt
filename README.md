@@ -87,9 +87,14 @@
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 
 # 2021-05-21
-->write your learnings here<-
-
+- Learned about available rdkit-cartridge docker images
+- Progress on chempp, large scale chemical search engine in C++
+- Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 
 # 2021-05-22
-->write your learnings here<-
+- Learned about filling up a postgres db within a running container
+- Better understanding of COPY statement in postgres sql scripting
+- Build context and custom docker file in docker-compose 
+- Better understanding of nested docker image inheritence
+- Progress on chempp, large scale chemical search engine in C++
 
