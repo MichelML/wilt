@@ -106,3 +106,7 @@
 - better understanding on how to write queries in postgres
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 
+
+# 2021-05-24
+->write your learnings here<-
+
