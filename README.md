@@ -108,5 +108,7 @@
 
 
 # 2021-05-24
-->write your learnings here<-
+- better oat++ swagger docs configuration understanding
+- better oat++ query parameters handling understanding
+- spending time with old friends away from the city in nature is priceless
 
