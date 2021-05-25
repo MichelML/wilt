@@ -110,5 +110,5 @@
 # 2021-05-24
 - better oat++ swagger docs configuration understanding
 - better oat++ query parameters handling understanding
-- spending time with old friends away from the city in nature is priceless
+- spending quality time with old friends is one of the most nurturing things in life
 
