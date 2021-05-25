@@ -112,3 +112,7 @@
 - better oat++ query parameters handling understanding
 - spending quality time with old friends is one of the most nurturing things in life
 
+
+# 2021-05-25
+->write your learnings here<-
+
