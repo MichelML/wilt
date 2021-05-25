@@ -112,3 +112,7 @@
 - better oat++ query parameters handling understanding
 - spending time with old friends away from the city in nature is priceless
 
+
+# 2021-05-25
+->write your learnings here<-
+
