@@ -117,3 +117,7 @@
 - you need to delete manually wasm objects in JS https://emscripten.org/docs/porting/connecting_cpp_and_javascript/embind.html#memory-management
 - most user interfaces run at 80% quality or below. 
 
+
+# 2021-05-26
+->write your learnings here<-
+
