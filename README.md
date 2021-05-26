@@ -119,5 +119,8 @@
 
 
 # 2021-05-26
-->write your learnings here<-
+- better mastery of RDKIT js
+- better understanding of C++ objects in a WASM/JS context
+- dogs are the best
+- Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 
