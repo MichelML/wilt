@@ -126,5 +126,8 @@
 
 
 # 2021-05-27
-->write your learnings here<-
+- Custom synthesis routes UI is complex to implement, but very cool
+- Better understanding of Google Cloud service accounts and IAM structure
+- Better understanding of several-containers-docker-compose setup
+- Better understanding of docker-compose env vars handling
 
