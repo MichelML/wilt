@@ -133,5 +133,7 @@
 
 
 # 2021-05-28
-->write your learnings here<-
+- Card-based ui for chemical structure results presentation with Ant Design looks awesome
+- Ant Design framework continues to impress me after two years of usage.
+- Dreams are awesomely weird
 
