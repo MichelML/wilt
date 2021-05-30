@@ -144,5 +144,6 @@
 
 
 # 2021-05-30
-->write your learnings here<-
+- More templates and generic programming in C++
+- Strings and regexp manipulations in C++
 
