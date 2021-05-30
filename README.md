@@ -139,5 +139,6 @@
 
 
 # 2021-05-29
-->write your learnings here<-
+- Prep for next courses to take
+- Some multi-dimensional dataset manipulations review
 
