@@ -146,4 +146,8 @@
 # 2021-05-30
 - More templates and generic programming in C++
 - Strings and regexp manipulations in C++
+- Bulma CSS framework
+- React Code highlighting
+- Raw file loaders in webpack
+- Logo making is always fun (as long as it takes less then 5 minutes to make)
 
