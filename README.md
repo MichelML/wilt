@@ -151,3 +151,7 @@
 - Raw file loaders in webpack
 - Logo making is always fun (as long as it takes less then 5 minutes to make)
 
+
+# 2021-05-31
+->write your learnings here<-
+
