@@ -153,9 +153,8 @@
 
 
 # 2021-05-31
-->write your learnings here<-
-
+- Mastered parallel coordinate plots of plotly.js
+- Handling restyle events of parallel coordinate plots
 
 # 2021-06-01
-->write your learnings here<-
-
+- Mastering 3D molecule viewing with 3DMol.js
