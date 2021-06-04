@@ -160,9 +160,10 @@
 - Mastering 3D molecule viewing with 3DMol.js
 
 # 2021-06-02
-->write your learnings here<-
-
+- finish PCA coursera course
+- still Mastering 3D molecule viewing with 3DMol.js
 
 # 2021-06-03
-->write your learnings here<-
-
+- prep for next math courses
+- still Mastering 3D molecule viewing with 3DMol.js
+- old friendships are the best
