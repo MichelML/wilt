@@ -172,3 +172,7 @@
 - Main learning has been implementing a reusable 3D Mol component in React with 3DMol.js
 - Learned about substruct matching logics and 3d conformation of compounds when using RDKit
 
+
+# 2021-06-05
+->write your learnings here<-
+
