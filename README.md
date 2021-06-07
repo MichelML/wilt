@@ -174,13 +174,12 @@
 
 
 # 2021-06-05
-->write your learnings here<-
-
+- C++ standard library knowledge
 
 # 2021-06-06
-->write your learnings here<-
-
+- C++ standard library knowledge
 
 # 2021-06-07
-->write your learnings here<-
+- Bulma expertise
+- Epam Indigo Service inner workings
 
