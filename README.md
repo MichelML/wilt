@@ -183,7 +183,9 @@
 - Bulma expertise
 - Epam Indigo Service inner workings
 
-
 # 2021-06-08
-->write your learnings here<-
+- New use cases for debounce cases
+- Jung's introverted intuition is a thing
+- Coding flow has its pros and cons
+- Taking care of your relationships is key
 
