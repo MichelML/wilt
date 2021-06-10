@@ -189,7 +189,6 @@
 - Coding flow has its pros and cons
 - Taking care of your relationships is key
 
-
 # 2021-06-09
-->write your learnings here<-
+- We're all human, and miscarriage can happen to you.
 
