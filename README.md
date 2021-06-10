@@ -192,3 +192,7 @@
 # 2021-06-09
 - We're all human, and miscarriage can happen to you.
 
+
+# 2021-06-10
+->write your learnings here<-
+
