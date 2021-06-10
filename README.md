@@ -190,7 +190,7 @@
 - Taking care of your relationships is key
 
 # 2021-06-09
-- We're all human, and miscarriage can happen to you.
+- We're all human, and miscarriage can happen to you, and it's ok.
 
 
 # 2021-06-10
