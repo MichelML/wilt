@@ -194,9 +194,11 @@
 
 
 # 2021-06-10
-->write your learnings here<-
+- People get attached to ideas too much.
 
 
 # 2021-06-11
-->write your learnings here<-
+- Foreignobjects https://developer.mozilla.org/en-US/docs/Web/SVG/Element/foreignObject
+- React-dnd's feature
+- Crucial conversations are important, don't postpone
 
