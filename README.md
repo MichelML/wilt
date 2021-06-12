@@ -202,3 +202,7 @@
 - React-dnd's features
 - Crucial conversations are important, never postpone
 
+
+# 2021-06-12
+->write your learnings here<-
+
