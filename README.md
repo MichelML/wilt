@@ -199,6 +199,6 @@
 
 # 2021-06-11
 - Foreignobjects https://developer.mozilla.org/en-US/docs/Web/SVG/Element/foreignObject
-- React-dnd's feature
-- Crucial conversations are important, don't postpone
+- React-dnd's features
+- Crucial conversations are important, never postpone
 
