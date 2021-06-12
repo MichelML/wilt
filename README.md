@@ -204,5 +204,6 @@
 
 
 # 2021-06-12
-->write your learnings here<-
+- SMARTS syntax rules
+- Recalling some basic chemistry structures by name
 
