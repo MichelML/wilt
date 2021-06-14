@@ -207,3 +207,7 @@
 - SMARTS syntax rules
 - Recalling some basic chemistry structures by name
 
+
+# 2021-06-13
+->write your learnings here<-
+
