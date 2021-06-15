@@ -73,7 +73,6 @@
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
 - Dreams analysis is always surprising
 
-
 # 2021-05-19
 - Better understanding of different WASM modules loading strategies
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
@@ -99,13 +98,11 @@
 - Progress on chempp, large scale chemical search engine in C++
 - You can render 2d structures using PubChem https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/png?record_type=2d&smiles=Cn1c(%3DO)n(C)c2c(c1%3DO)n(CCC%5BSi%5D(C)(C)C)cn2&image_size=300x300
 
-
 # 2021-05-23
 - better oat++ framework mastery
 - learned about utility functions in c++: regexp, uri encoding/decoding
 - better understanding on how to write queries in postgres
 - Made progress on https://www.wiley.com/en-us/Human+Biological+Aging%3A+From+Macromolecules+to+Organ+Systems-p-9781118967027
-
 
 # 2021-05-24
 - better oat++ swagger docs configuration understanding
