@@ -128,17 +128,14 @@
 - Better understanding of several-containers-docker-compose setup
 - Better understanding of docker-compose env vars handling
 
-
 # 2021-05-28
 - Card-based ui for chemical structure results presentation with Ant Design looks awesome
 - Ant Design framework continues to impress me after two years of usage.
 - Dreams are awesomely weird
 
-
 # 2021-05-29
 - Prep for next courses to take
 - Some multi-dimensional dataset manipulations review
-
 
 # 2021-05-30
 - More templates and generic programming in C++
@@ -147,7 +144,6 @@
 - React Code highlighting
 - Raw file loaders in webpack
 - Logo making is always fun (as long as it takes less then 5 minutes to make)
-
 
 # 2021-05-31
 - Mastered parallel coordinate plots of plotly.js
@@ -169,7 +165,6 @@
 - Main learning has been implementing a reusable 3D Mol component in React with 3DMol.js
 - Learned about substruct matching logics and 3d conformation of compounds when using RDKit
 
-
 # 2021-06-05
 - C++ standard library knowledge
 
@@ -189,25 +184,20 @@
 # 2021-06-09
 - We're all human, and miscarriage can happen to you, and it's ok.
 
-
 # 2021-06-10
 - People get attached to ideas too much.
-
 
 # 2021-06-11
 - Foreignobjects https://developer.mozilla.org/en-US/docs/Web/SVG/Element/foreignObject
 - React-dnd's features
 - Crucial conversations are important, never postpone
 
-
 # 2021-06-12
 - SMARTS syntax rules
 - Recalling some basic chemistry structures by name
 
-
 # 2021-06-13
 - key based updates to play well with font awesome
-
 
 # 2021-06-14
 - miscarriage rates
