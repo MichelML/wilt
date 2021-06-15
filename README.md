@@ -204,3 +204,7 @@
 - overdoing ui programming isn't good for mood
 - healthy habits is key
 
+
+# 2021-06-15
+->write your learnings here<-
+
