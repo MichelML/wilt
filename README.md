@@ -213,5 +213,7 @@
 
 
 # 2021-06-14
-->write your learnings here<-
+- miscarriage rates
+- overdoing ui programming isn't good for mood
+- healthy habits is key
 
