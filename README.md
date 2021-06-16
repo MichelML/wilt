@@ -206,5 +206,8 @@
 
 
 # 2021-06-15
-->write your learnings here<-
+- Ant Design 4 new features
+- Collective unconscious understanding
+- Marie-Louise von Franz is an amazing writer
+- Better Kubernetes understanding, ArgoCD intro
 
