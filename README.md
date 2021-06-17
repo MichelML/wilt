@@ -211,3 +211,7 @@
 - Marie-Louise von Franz is an amazing writer
 - Better Kubernetes understanding, ArgoCD intro
 
+
+# 2021-06-17
+->write your learnings here<-
+
