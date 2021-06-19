@@ -213,9 +213,8 @@
 
 
 # 2021-06-17
-->write your learnings here<-
+- Ant Design 4
 
 
 # 2021-06-18
-->write your learnings here<-
-
+- Ant Design 4
