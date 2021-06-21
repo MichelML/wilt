@@ -220,13 +220,13 @@
 - Ant Design 4
 
 # 2021-06-19
-->write your learnings here<-
+- Serverless REST API with docker deployment and aws sam
 
 
 # 2021-06-20
-->write your learnings here<-
+- More Serverless REST API with docker deployment and aws sam
 
 
 # 2021-06-21
-->write your learnings here<-
+- More & more Serverless REST API with docker deployment and aws sam
 
