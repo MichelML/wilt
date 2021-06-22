@@ -230,3 +230,7 @@
 # 2021-06-21
 - More & more Serverless REST API with docker deployment and aws sam
 
+
+# 2021-06-22
+->write your learnings here<-
+
