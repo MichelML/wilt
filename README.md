@@ -255,5 +255,8 @@
 - HTML input of type color
 
 # 2021-06-28
-->write your learnings here<-
-
+- Multi env deployment in AWS SAM/Lambda
+- CI for AWS SAM
+- Memory debugging in AWS Lambda
+- Upgrade to React 17
+- getSnapshotBeforeUpdate in React
