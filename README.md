@@ -244,9 +244,9 @@
 
 
 # 2021-06-26
-->write your learnings here<-
+- More & more Serverless REST API with docker deployment
 
 
 # 2021-06-27
-->write your learnings here<-
-
+- RDKit drawing API
+- HTML input of type color
