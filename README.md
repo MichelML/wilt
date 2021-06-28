@@ -1,4 +1,7 @@
 <blockquote>“Go to bed smarter than when you woke up.” - Charlie Munger</blockquote>
+<br>
+<br>
+<br>
 
 # 2021-05-05
 - Different lookup field then pk for DRF viewsets https://stackoverflow.com/a/39997687  
