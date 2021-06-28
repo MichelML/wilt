@@ -250,3 +250,7 @@
 # 2021-06-27
 - RDKit drawing API
 - HTML input of type color
+
+# 2021-06-28
+->write your learnings here<-
+
