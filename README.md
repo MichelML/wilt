@@ -262,13 +262,11 @@
 - getSnapshotBeforeUpdate in React
 
 # 2021-06-29
-->write your learnings here<-
-
+- React+vercel+mono repo multi apps
+- typescript d.ts in js project
 
 # 2021-06-30
-->write your learnings here<-
-
+- React context api
 
 # 2021-07-01
-->write your learnings here<-
-
+- Better Ant Design v4 mastery
