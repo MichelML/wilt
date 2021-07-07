@@ -283,3 +283,7 @@
 # 2021-07-06
 - Better CloudFormation and AWS SAM mastery
 
+
+# 2021-07-07
+->write your learnings here<-
+
