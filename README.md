@@ -1,6 +1,3 @@
-<blockquote>“Go to bed smarter than when you woke up.” - Charlie Munger</blockquote>
-<hr>
-
 # 2021-05-05
 - Different lookup field then pk for DRF viewsets https://stackoverflow.com/a/39997687  
 - Authentified swagger docs with django static files + openapi-schema + swagger-react
