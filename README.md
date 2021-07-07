@@ -272,17 +272,17 @@
 - Better Ant Design v4 mastery
 
 # 2021-07-03
-->write your learnings here<-
+- Gödel, Escher, Bach
 
 
 # 2021-07-04
-->write your learnings here<-
+- Gödel, Escher, Bach
 
 
 # 2021-07-05
-->write your learnings here<-
+- HOC for gulp tasks
 
 
 # 2021-07-06
-->write your learnings here<-
+- Better CloudFormation and AWS SAM mastery
 
