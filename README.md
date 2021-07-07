@@ -277,7 +277,7 @@
 
 
 # 2021-07-05
-- HOC for gulp tasks
+- Higher order functions for gulp tasks
 
 
 # 2021-07-06
