@@ -285,49 +285,49 @@
 
 
 # 2021-07-07
-->write your learnings here<-
+- Better CloudFormation and AWS SAM mastery
 
 
 # 2021-07-08
-->write your learnings here<-
+- Better CloudFormation and AWS SAM mastery
 
 
 # 2021-07-09
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-10
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-11
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-12
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-13
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-14
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-15
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-16
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-17
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-18
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
