@@ -363,3 +363,7 @@
 # 2021-07-26
 - DRF middleware handling for service-based authentication
 
+
+# 2021-07-27
+->write your learnings here<-
+
