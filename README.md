@@ -333,33 +333,33 @@
 
 
 # 2021-07-19
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-20
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-21
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-22
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-23
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-24
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-25
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-26
-->write your learnings here<-
+- DRF middleware handling for service-based authentication
 
