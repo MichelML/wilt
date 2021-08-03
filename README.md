@@ -391,3 +391,7 @@
 # 2021-08-02
 - The Systems View of Life: A Unifying Vision
 
+
+# 2021-08-03
+->write your learnings here<-
+
