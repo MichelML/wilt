@@ -365,29 +365,29 @@
 
 
 # 2021-07-27
-->write your learnings here<-
-
+- DRF middleware handling for service-based authentication
+- SUM function and aggregate queries with django orm for postgres
 
 # 2021-07-28
-->write your learnings here<-
+- DRF throttling implementation for service limits
 
 
 # 2021-07-29
-->write your learnings here<-
+- DRF throttling implementation for service limits
 
 
 # 2021-07-30
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-07-31
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-08-01
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
 
 # 2021-08-02
-->write your learnings here<-
+- The Systems View of Life: A Unifying Vision
 
