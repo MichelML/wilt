@@ -393,25 +393,25 @@
 
 
 # 2021-08-03
-->write your learnings here<-
-
+- A tour of C++
+- Drugs: From Discovery to Approval
 
 # 2021-08-04
-->write your learnings here<-
+- A tour of C++
+- Drugs: From Discovery to Approval
 
 
 # 2021-08-05
-->write your learnings here<-
+- A tour of C++
+- Drugs: From Discovery to Approval
 
 
 # 2021-08-06
-->write your learnings here<-
-
+- A tour of C++
+- Drugs: From Discovery to Approval- A tour of C++
 
 # 2021-08-07
-->write your learnings here<-
-
+- Shaman, Healer, Sage
 
 # 2021-08-08
-->write your learnings here<-
-
+- Shaman, Healer, Sage
