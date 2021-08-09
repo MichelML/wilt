@@ -415,3 +415,7 @@
 
 # 2021-08-08
 - Shaman, Healer, Sage
+
+# 2021-08-09
+->write your learnings here<-
+
