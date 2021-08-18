@@ -447,3 +447,7 @@
 # 2021-08-17
 ->write your learnings here<-
 
+
+# 2021-08-18
+->write your learnings here<-
+
