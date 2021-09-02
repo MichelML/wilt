@@ -408,7 +408,7 @@
 
 # 2021-08-06
 - A tour of C++
-- Drugs: From Discovery to Approval- A tour of C++
+- Drugs: From Discovery to Approval
 
 # 2021-08-07
 - Shaman, Healer, Sage
