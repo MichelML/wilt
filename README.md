@@ -466,3 +466,7 @@ Pause
 # 2021-10-23
 ->write your learnings here<-
 
+
+# 2021-10-24
+->write your learnings here<-
+
