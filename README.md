@@ -494,3 +494,7 @@ Pause
 # 2021-10-30
 ->write your learnings here<-
 
+
+# 2021-10-31
+->write your learnings here<-
+
