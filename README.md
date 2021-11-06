@@ -502,3 +502,7 @@ Pause
 # 2021-11-02
 ->write your learnings here<-
 
+
+# 2021-11-06
+->write your learnings here<-
+
