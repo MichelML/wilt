@@ -479,3 +479,7 @@ Pause
 # 2021-12-02
 ->write your learnings here<-
 
+
+# 2021-12-03
+->write your learnings here<-
+
