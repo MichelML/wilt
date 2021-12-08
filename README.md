@@ -419,3 +419,7 @@
 # 2021-08-09 - 2021-12-08
 pause
 
+
+# 2021-12-08
+->write your learnings here<-
+
