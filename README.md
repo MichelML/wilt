@@ -416,19 +416,6 @@
 # 2021-08-08
 - Shaman, Healer, Sage
 
-# 2021-08-09 - 2021-12-04
-Pause
-
-
-
-# 2021-12-05
-->write your learnings here<-
-
-
-# 2021-12-06
-->write your learnings here<-
-
-
-# 2021-12-07
-->write your learnings here<-
+# 2021-08-09 - 2021-12-08
+pause
 
