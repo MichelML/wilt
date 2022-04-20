@@ -37,6 +37,7 @@ jobs:
           body: "@MichelML, time to add your learnings of the day!"
           commit-message: "Daily WILT ${{steps.date.outputs.date}}"
           delete-branch: True
+          token: ${{ secrets.WILT_GH_TOKEN }}
           
       - name: Enable Pull Request Automerge
         if: steps.cpr.outputs.pull-request-operation == 'created'
