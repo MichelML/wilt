@@ -827,3 +827,7 @@ Pause
 # 2022-06-16
 ->write your learnings here<-
 
+
+# 2022-06-18
+->write your learnings here<-
+
